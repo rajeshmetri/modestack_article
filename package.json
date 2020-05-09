@@ -1,0 +1,40 @@
+{
+  "name": "modestack_assignment",
+  "version": "1.0.0",
+  "description": "adding a article",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modestack_article"
+  ],
+  "author": "rajesh",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3",
+    "binary": "^0.3.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.4",
+    "date-and-time": "^0.9.0",
+    "date-time": "^3.1.0",
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1",
+    "formidable": "^1.2.1",
+    "gridfs-stream": "^1.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.21",
+    "mongoose-type-email": "^1.0.10",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.1",
+    "ng2-validation": "^4.2.0",
+    "nodemailer": "^6.1.1",
+    "nodemon": "^1.19.2",
+    "npm": "^5.8.0",
+    "routes": "^2.1.0",
+    "strict-password-generator": "^1.1.2"
+  }
+}
