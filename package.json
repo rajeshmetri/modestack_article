@@ -33,7 +33,7 @@
     "ng2-validation": "^4.2.0",
     "nodemailer": "^6.1.1",
     "nodemon": "^1.19.2",
-    "npm": "^5.8.0",
+    "npm": "^6.14.6",
     "routes": "^2.1.0",
     "strict-password-generator": "^1.1.2"
   }
