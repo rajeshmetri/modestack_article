@@ -31,7 +31,7 @@
     "morgan": "^1.9.1",
     "multer": "^1.4.1",
     "ng2-validation": "^4.2.0",
-    "nodemailer": "^6.1.1",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.19.2",
     "npm": "^5.8.0",
     "routes": "^2.1.0",
